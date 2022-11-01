@@ -13,7 +13,7 @@ Projeto criado no evento da Rocketseat NLW-Copa
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-git clone
+git clone git@github.com:ur4sh1/SERVER-BOLAO-da-COPA---NLW-Rocketseat.git
 ```
 Instalar o npm
 ```
