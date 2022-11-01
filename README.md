@@ -43,7 +43,7 @@ Instalando o fastify
 npm i fastify
 ```
 Instalando o tsx como dependencia de desenvolvimento
-````
+```
 npm i tsx -D
 ```
 Instalando o prisma como dependencia de desenvolvimento
