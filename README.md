@@ -84,3 +84,11 @@ Instalar o @fastify/cors (mecanismo de segurança que valida quem pode consumir 
 ```
 npm i @fastify/cors
 ```
+Instalando o zod (schema validation)
+```
+npm i zod
+```
+Instalando o short-unique-id (gerador de id's únicos)
+```
+npm i short-unique-id
+```
