@@ -92,3 +92,11 @@ Instalando o short-unique-id (gerador de id's únicos)
 ```
 npm i short-unique-id
 ```
+Instalando o node-fetch
+```
+npm i node-fetch
+```
+Instalando jwt
+```
+npm i @fastify/jwt
+```
